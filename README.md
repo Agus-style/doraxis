@@ -11,7 +11,7 @@
 
 [4] apt install git -y
 
-[5] git clone https://github.com/mistersm/doraxis
+[5] git clone 
 
 [6] cd doraxis
 
